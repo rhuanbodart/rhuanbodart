@@ -1,17 +1,27 @@
-<h1> 👋 Hi, I’m Rhuan Bodart </h1>
+<h1> Hey there 👋 </h1>
 
-- 👀 I’m interested in to improve my knowledge in web/apps development
-- 🌱 I’m a Developer in constant progress
-- 💞️ I’m looking to become a relevant developer
-- 📫 How to reach me:
-  
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:rhuanbodart@hotmail.com)
+I’m Rhuan Bodart, Front-end Developer from Guarapari-ES, creative coder and graduated in Mechanical Engineer. I discovered my passion in technology and am looking for new opportunities and connections in the field. <br>
+I love the sea, diving, swimming and contemplating nature.</br>
 
-Contact me in social media
+🎯 Front-End Developer 
+<br> 🎓 Mechanical Engineer 
+<br>🎓 Process Automation and Control Technician 
+      
+Want to know more about me? 
+
 <p>
 
-<a href="https://github.com/rhuanbodart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rhuanbodart" height="30" width="40" /></a><a href="https://linkedin.com/in/rhuanbodart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhuanbodart" height="30" width="40" /></a> <a href="https://instagram.com/rhuanbodart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhuanbodart" height="30" width="40" /></a>
+[<a href="https://linkedin.com/in/rhuanbodart" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rhuanbodart"/></a>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+
 </p>
+
+<hr/>
+
+<h4>  </h4>
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 
